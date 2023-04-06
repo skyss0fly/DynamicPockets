@@ -14,3 +14,5 @@ if($sender->hasPermission("openpocket")){
 $inventory = $this->getServer()->createInventory($player, 9, "My Pocket");
 $player->addWindow($inventory);
 $inventory->setContents([item1, item2, item3]);
+}
+}
