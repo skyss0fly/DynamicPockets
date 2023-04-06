@@ -10,7 +10,7 @@ use pocketmine\command\CommandSender;
 class Main extends PluginBase{
 
 switch($command->getName()){
-if($sender->hasPermission("openpocket")){
+if($sender->hasPermission("pocket")){
 $inventory = $this->getServer()->createInventory($player, 9, "My Pocket");
 $player->addWindow($inventory);
 $inventory->setContents([item1, item2, item3]);
