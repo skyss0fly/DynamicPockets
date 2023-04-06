@@ -1,7 +1,7 @@
 # DynamicPockets
 a Brand new plugin designed to be a pocket for extra inventory space
 
-## have you ever played on your server and said god i wish i had more inventory space. well thisnthe plugin for you
+## have you ever played on your server and said god i wish i had more inventory space. well this is the plugin for you
 ### its as simple as 
 [1] download your desired phar for the desired api release
 [2] add the phar to your plugins folder
